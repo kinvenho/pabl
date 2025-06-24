@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pabl
 
 A fast, local image upload CLI tool designed for seamless integration with image processing workflows.
@@ -44,3 +45,7 @@ To contribute to Pabl:
 ## License
 
 MIT License 
+=======
+# pabl
+open-source, terminal-based tool in Python designed for fast, local image uploads
+>>>>>>> f5d6f3f13c1d85da8b864f94c9d8a9e219af2e1f

@@ -15,7 +15,7 @@ setup(
     description="A fast, local image upload CLI tool",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pabl",
+    url="https://github.com/kinvenho/pabl",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
